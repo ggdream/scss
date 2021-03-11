@@ -13,14 +13,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          repository: GoodManWEN/oracle-client-action
+          repository: GoodManWEN/scss
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.7
+          python-version: 3.8
       - name: Install dependencies & build
         working-directory: ./worker
-        run: |  # sleep to make sure Oracle server is fully loaded           
+        run: |      
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python worker.py

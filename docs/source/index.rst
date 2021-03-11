@@ -1,11 +1,11 @@
 Welcome to ggdreams_scss_tutorial's documentation!
 ==================================================
-**ggdreams_scss_tutorial** is a project that...
+**ggdreams_scss_tutorial** 是由Github账号ggdream(B站账号魔咔啦咔)发布的一套scss入门教程。链接地址：`SCSS从入门到实战 <https://www.bilibili.com/video/BV1Zg4y1v75U>`_
 
-**ggdreams_scss_tutorial** is distributed under an open-source :ref:`license <license>`. 
+**ggdreams_scss_tutorial** 遵守以下开源协议 :ref:`license <license>`. 
 
-User Guide
-==========
+Index
+=====
 
 .. toctree::
     :maxdepth: 3

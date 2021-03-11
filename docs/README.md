@@ -1,3 +1,4 @@
+## Basic
 The generated ggdreams_scss_tutorial's documentation is at https://ggdreams_scss_tutorial.readthedocs.io/
 
 This directory contains the documentation source.  It is written using reST
@@ -11,3 +12,6 @@ http://www.sphinx-doc.org
 
 Once Sphinx is installed, the supplied Makefile can be used to build the
 different targets.
+
+## Contribute
+直接修改顶层目录中的`.md`文件，文档将会由Actions自动生成，并发布于readthedocs文档托管服务。

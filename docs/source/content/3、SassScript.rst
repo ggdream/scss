@@ -1465,8 +1465,8 @@ a. @extend、@Mixin和@function的选择
 `原文链接 <https://csswizardry.com/2016/02/mixins-better-for-performance/>`_
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200707171035353.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200707171035353.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200707171035353.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200707171035353.png
    :alt: image-20200707171035353
 
 

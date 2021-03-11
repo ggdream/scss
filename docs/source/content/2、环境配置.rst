@@ -62,14 +62,14 @@ a.安装
    4. 检查是否安装成功$node-sass -v
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706124420782.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706124420782.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706124420782.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706124420782.png
    :alt: image-20200706124420782
 
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706132832305.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706132832305.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706132832305.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706132832305.png
    :alt: image-20200706132832305
 
 
@@ -114,8 +114,8 @@ b.使用
       # 效果：编译进程不结束，监听文件内容
 
 
-   .. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706134612609.png
-      :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706134612609.png
+   .. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706134612609.png
+      :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706134612609.png
       :alt: image-20200706134612609
 
 
@@ -167,8 +167,8 @@ a.安装
    5.检查是否安装成功 $sass -v
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706141653304.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706141653304.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706141653304.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706141653304.png
    :alt: image-20200706141653304
 
 
@@ -183,8 +183,8 @@ a.安装
    :ssl_verify_mode: 0
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706142100322.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706142100322.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706142100322.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706142100322.png
    :alt: image-20200706142100322
 
 
@@ -229,14 +229,14 @@ b.使用
       # 效果：编译进程不结束，监听文件内容
 
 
-   .. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706143409397.png
-      :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706143409397.png
+   .. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706143409397.png
+      :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706143409397.png
       :alt: image-20200706143409397
 
 
 
-   .. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706164519533.png
-      :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706164519533.png
+   .. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706164519533.png
+      :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706164519533.png
       :alt: image-20200706164519533
 
 
@@ -261,14 +261,14 @@ a.安装
    5.检查是否安装成功$sass -v
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706152755791.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706152755791.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706152755791.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706152755791.png
    :alt: image-20200706152755791
 
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706153705517.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706153705517.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706153705517.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706153705517.png
    :alt: image-20200706153705517
 
 
@@ -314,8 +314,8 @@ b.使用
       # 效果：编译进程不结束，监听文件内容
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706160732312.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706160732312.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706160732312.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706160732312.png
    :alt: image-20200706160732312
 
 
@@ -370,8 +370,8 @@ b.使用
 * 会自动生成下方图片内的配置
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706185328878.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706185328878.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706185328878.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706185328878.png
    :alt: image-20200706185328878
 
 
@@ -379,8 +379,8 @@ b.使用
 * 添加\ *"easysass.targetDir": $path*\ ，可将编译后的css文件放入\ *$path*\ 路径下(默认为当前路径)。例如生成到css文件下内
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706185722811.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706185722811.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706185722811.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706185722811.png
    :alt: image-20200706185722811
 
 

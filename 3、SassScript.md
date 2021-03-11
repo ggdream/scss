@@ -1468,7 +1468,7 @@ a. @extend、@Mixin和@function的选择
 
 [原文链接](https://csswizardry.com/2016/02/mixins-better-for-performance/)
 
-![image-20200707171035353](https://github.com/ggdream/scss/blob/master/sources.assets/image-20200707171035353.png)
+![image-20200707171035353](https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200707171035353.png)
 
 > `minxins`在网络传输中比`@extend` 拥有更好的性能.尽管有些文件未压缩时更大，但使用`gzip`压缩后，依然可以保证我们拥有更好的性能。
 

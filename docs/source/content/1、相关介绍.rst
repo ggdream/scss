@@ -51,8 +51,8 @@ Stylus (.styl)。于2010年诞生，出自Node.js社区，主要用来给Node项
 ------------------------
 
 
-.. image:: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706194107318.png
-   :target: https://github.com/ggdream/scss/blob/master/sources.assets/image-20200706194107318.png
+.. image:: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706194107318.png
+   :target: https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200706194107318.png
    :alt: image-20200706194107318
 
 

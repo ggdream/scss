@@ -13,7 +13,6 @@ User Guide
     content/1、相关介绍.rst
     content/2、环境配置.rst
     content/3、SassScript.rst
-    content/README.rst
 
 Indices and tables
 ==================
@@ -21,4 +20,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
 

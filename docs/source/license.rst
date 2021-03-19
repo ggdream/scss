@@ -1,0 +1,8 @@
+:orphan:
+
+.. _license:
+
+*******
+License
+*******
+

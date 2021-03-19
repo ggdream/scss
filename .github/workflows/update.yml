@@ -1,0 +1,36 @@
+name: Updates
+
+on: 
+  push:
+    branches:
+      - 'master'
+      - 'dev'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+        with:
+          repository: GoodManWEN/scss
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies & build
+        working-directory: ./worker
+        run: |      
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python worker.py
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action[Bot]"
+          git add .
+          git commit -m "update README after user commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

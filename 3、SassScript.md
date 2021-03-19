@@ -1468,7 +1468,7 @@ a. @extend、@Mixin和@function的选择
 
 [原文链接](https://csswizardry.com/2016/02/mixins-better-for-performance/)
 
-![image-20200707171035353](H:\record\前端\css预编译器\scss\sources.assets\image-20200707171035353.png)
+![image-20200707171035353](https://raw.githubusercontent.com/ggdream/scss/master/sources.assets/image-20200707171035353.png)
 
 > `minxins`在网络传输中比`@extend` 拥有更好的性能.尽管有些文件未压缩时更大，但使用`gzip`压缩后，依然可以保证我们拥有更好的性能。
 
@@ -1497,3 +1497,6 @@ a. @extend、@Mixin和@function的选择
 >以上内容算是"基础"部分，但是对于日常开发，我觉得是足够使用的了。
 >
 >如果想要进一步了解，就必须先去学习下Ruby，使用Ruby相关模块进行更丰富地学习
+>
+
+### Unfinished...
